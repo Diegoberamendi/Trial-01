@@ -1,0 +1,6 @@
+This file contains information on the project's structure 01
+Information to be filled in:
+Location:
+Company:
+Web Page:
+Office adress: 
