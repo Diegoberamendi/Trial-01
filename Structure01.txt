@@ -4,3 +4,5 @@ Location:
 Company:
 Web Page:
 Office adress: 
+Nationality:
+Age:
