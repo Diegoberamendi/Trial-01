@@ -5,4 +5,7 @@ Company:
 Web Page:
 Office adress: 
 Nationality:
-Age:
+
+Hobbys: 
+Personal goals in 10 years
+
